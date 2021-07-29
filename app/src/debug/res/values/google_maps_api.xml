@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B6:0B:E3:9E:88:76:F4:4E:D0:32:78:06:D2:EF:3E:BC:7A:B7:F7:B0%3Bcom.example.wandar_map
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.wandar_map
+
+    SHA-1 certificate fingerprint:
+    B6:0B:E3:9E:88:76:F4:4E:D0:32:78:06:D2:EF:3E:BC:7A:B7:F7:B0
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCfFBWOJFdpAzltkEIeX13PLqgSm8lPAho</string>
+</resources>
